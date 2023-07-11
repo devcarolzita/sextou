@@ -1,0 +1,26 @@
+{
+  "name": "sextou",
+  "version": "1.0.0",
+  "description": "Mufasa for happy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcarolzita/sextou.git"
+  },
+  "keywords": [
+    "music",
+    "terminal",
+    "sextou",
+    "mufasa",
+    "trybe"
+  ],
+  "author": "devcarolzita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devcarolzita/sextou/issues"
+  },
+  "homepage": "https://github.com/devcarolzita/sextou#readme"
+}
