@@ -3,10 +3,10 @@ const progressBar = require('./progressBar');
 const path = require('path');
 const fs = require('fs');
 
-const tururu = function (receivedSoundPath, receivedSoundTime){
+const sextouu = function (receivedSoundPath, receivedSoundTime){
     
     const mainPath = path.dirname(fs.realpathSync(__filename));
-    const soundPath = receivedSoundPath ? receivedSoundPath : path.join(mainPath, './tururu');
+    const soundPath = receivedSoundPath ? receivedSoundPath : path.join(mainPath, './sextouu');
     const soundTime = receivedSoundTime ? receivedSoundTime : 38
 
 
@@ -16,7 +16,7 @@ const tururu = function (receivedSoundPath, receivedSoundTime){
     
     const platform = process.platform;
 
-    console.log('tururu ;-;');
+    console.log('sextouu ;-;');
     
     switch(platform){
         case 'linux':
@@ -40,8 +40,8 @@ const tururu = function (receivedSoundPath, receivedSoundTime){
     }
 }
 
-module.exports = tururu;
+module.exports = sextouu;
 
 if (!module.parent) {
-    tururu();
+    sextouu();
 }
