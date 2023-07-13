@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const exect = require('child_process').exec;
 const progressBar = require('./progressBar');
 const path = require('path');
