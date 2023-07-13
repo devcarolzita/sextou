@@ -1,6 +1,6 @@
 {
   "name": "sextouu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mufasa for happy",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,9 @@
     "mufasa",
     "trybe"
   ],
+  "bin": {
+    "sextouu": "./index.js"
+  },
   "author": "devcarolzita",
   "license": "MIT",
   "bugs": {
