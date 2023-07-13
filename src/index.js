@@ -5,9 +5,10 @@ const playSong = require("./playSong");
 console.log(" ");
 
 console.log("= = = = = = =");
-console.log("Feito carinhosamente para a Turma 21!");
+console.log("Feito carinhosamente para Trybers!");
 console.log(" ");
-console.log("BOA TARDE TURMA 21");
+console.log("SEXTOUUUUU GALERA ");
+console.log("= = = = = = =");
 console.log("= = = = = = =");
 console.log(" ");
 console.log(" ");
