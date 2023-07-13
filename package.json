@@ -2,9 +2,9 @@
   "name": "sextouu",
   "version": "1.0.6",
   "description": "Mufasa for happy",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "trybe"
   ],
   "bin": {
-    "sextouu": "./index.js"
+    "sextouu": "./src/index.js"
   },
   "author": "devcarolzita",
   "license": "MIT",
@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/devcarolzita/sextou#readme",
   "dependencies": {
-    "sextouu": "^1.0.1"
+    "progress": "^2.0.3"
   }
 }
