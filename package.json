@@ -1,6 +1,6 @@
 {
   "name": "sextouu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mufasa for happy",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/devcarolzita/sextou/issues"
   },
-  "homepage": "https://github.com/devcarolzita/sextou#readme"
+  "homepage": "https://github.com/devcarolzita/sextou#readme",
+  "dependencies": {
+    "sextouu": "^1.0.1"
+  }
 }
